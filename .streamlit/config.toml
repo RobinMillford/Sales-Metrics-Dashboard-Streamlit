@@ -1,0 +1,13 @@
+[theme]
+primaryColor="#40e723"
+backgroundColor="#000000"
+secondaryBackgroundColor="#000000"
+textColor="#fafafa"
+font="serif"
+
+[server]
+# Enable static file serving
+enableStaticServing = true
+
+# Automatically refresh the app when changes are detected
+runOnSave = true
